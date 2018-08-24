@@ -1,12 +1,22 @@
+
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana,sans-serif;
+  color: White
+}
+
 h1 {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  color: White;
   text-align: center;
 
 }
 .class {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+
 }
